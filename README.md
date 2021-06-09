@@ -4,12 +4,12 @@ Get addition of N Integers.
 
 # Installation
 
-`npm i numbers-addition --save`
+`npm i add-numbers --save`
 
 Then...
 
 ```
-import { addNumbers } from 'numbers-addition'
+import { addNumbers } from 'add-numbers'
 
 let addition = addNumbers(num1, num2)
 ```
