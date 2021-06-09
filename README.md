@@ -4,7 +4,7 @@ Get addition of N Integers.
 
 # Installation
 
-`npm i numbersaddition --save`
+`npm i numbers-addition --save`
 
 Then...
 
