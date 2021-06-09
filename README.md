@@ -9,7 +9,7 @@ Get addition of N Integers.
 Then...
 
 ```
-import { addNumbers } from 'numbersaddition'
+import { addNumbers } from 'numbers-addition'
 
 let addition = addNumbers(num1, num2)
 ```
