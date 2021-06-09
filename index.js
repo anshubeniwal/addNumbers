@@ -1,7 +1,7 @@
-function addNumbers (arguments) {
+function addNumbers (...options) {
     var sum = 0;
-    for (var i=0; i < arguments.length; i++) {
-        sum += arguments[i];
+    for (var i=0; i < options.length; i++) {
+        sum += options[i];
     }
     return sum;
 }
