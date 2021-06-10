@@ -1,0 +1,25 @@
+{
+  "name": "numbers-add",
+  "version": "1.0.2",
+  "description": "Add N number of integers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshubeniwal/addNumbers.git"
+  },
+  "keywords": [
+    "javascript",
+    "add",
+    "integers",
+    "react"
+  ],
+  "author": "Anshu Beniwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anshubeniwal/addNumbers/issues"
+  },
+  "homepage": "https://github.com/anshubeniwal/addNumbers#readme"
+}
